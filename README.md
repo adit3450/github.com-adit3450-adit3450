@@ -1,1 +1,16 @@
-# github.com-adit3450-adit3450
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Frames</title>
+</head>
+<frameset rows="10%,80%,10%">
+ <frame name="top" src="c:\Users\devil\OneDrive\Pictures\494fcd38-3663-4b4c-be29-afd7961dd082.jpg" />
+ <frame name="main" src="C:\Users\devil\Downloads\tables.html" />
+ <frame name="bottom" src="c:\Users\devil\OneDrive\Pictures\494fcd38-3663-4b4c-be29-afd7961dd082.jpg" />
+ <noframes>
+ <body>
+Your browser does not support frames.
+ </body>
+ </noframes>
+</frameset>
+</html>
